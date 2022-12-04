@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\homework2\task 13\bin\Debug\net6.0\task 13.exe
+D:\GeekBrains\С#\homework2\task 13\bin\Debug\net6.0\task 13.deps.json
+D:\GeekBrains\С#\homework2\task 13\bin\Debug\net6.0\task 13.runtimeconfig.json
+D:\GeekBrains\С#\homework2\task 13\bin\Debug\net6.0\task 13.dll
+D:\GeekBrains\С#\homework2\task 13\bin\Debug\net6.0\task 13.pdb
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\task 13.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\task 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\task 13.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\task 13.AssemblyInfo.cs
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\task 13.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\task 13.dll
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\refint\task 13.dll
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\task 13.pdb
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\task 13.genruntimeconfig.cache
+D:\GeekBrains\С#\homework2\task 13\obj\Debug\net6.0\ref\task 13.dll
